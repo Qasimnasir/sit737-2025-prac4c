@@ -1,0 +1,16 @@
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 25 ","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 30 ","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 300 ","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
