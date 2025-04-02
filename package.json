@@ -1,0 +1,24 @@
+{
+  "name": "sit737-2025-prac4c",
+  "version": "1.0.0",
+  "main": "app4c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qasimnasir/sit737-2025-prac4c.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qasimnasir/sit737-2025-prac4c/issues"
+  },
+  "homepage": "https://github.com/Qasimnasir/sit737-2025-prac4c#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "winston": "^3.17.0"
+  },
+  "description": ""
+}
